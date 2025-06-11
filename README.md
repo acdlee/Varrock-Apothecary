@@ -9,8 +9,8 @@
 
 ## About
 The <strong>Varrock Apothecary</strong> is an interactive storefront inspired from a store
-from the game Old School Runescape. The primary utility of this application was to get my
-hands dirty after reading some of the FastAPI docs.
+from the game Old School Runescape. The final version of this project will include an interactive CLI with Questionary,
+FastAPI backend handling API requests, and SQLite3 for data storage.
 
 ## Features
 - Interactive CLI for navigating the storefront
