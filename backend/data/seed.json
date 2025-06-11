@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Prayer Potion",
+    "effect": "Restores Prayer points",
+    "herb": "Ranarr",
+    "ingredient": "Snape grass"
+  },
+  {
+    "name": "Super Restore",
+    "effect": "Restores all stats except Hitpoints and Prayer",
+    "herb": "Snapdragon",
+    "ingredient": "Red spiders' eggs"
+  },
+  {
+    "name": "Saradomin Brew",
+    "effect": "Heals HP and boosts Defence, lowers Attack/Strength/Ranged",
+    "herb": "Toadflax",
+    "ingredient": "Crushed nest"
+  },
+  {
+    "name": "Ranging Potion",
+    "effect": "Boosts Ranged level by 10-20%",
+    "herb": "Dwarf weed",
+    "ingredient": "Wine of zamorak"
+  },
+  {
+    "name": "Compost Potion",
+    "effect": "Turns compost into supercompost",
+    "herb": "Harralander",
+    "ingredient": "Volcanic ash"
+  }
+]
