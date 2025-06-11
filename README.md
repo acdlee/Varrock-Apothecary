@@ -8,8 +8,7 @@
 </div>
 
 ## About
-The <strong>Varrock Apothecary</strong> is an interactive storefront inspired from a store
-from the game Old School Runescape. The final version of this project will include an interactive CLI with Questionary,
+The <strong>Varrock Apothecary</strong> is an interactive storefront inspired by a store in Old School Runescape. The final version of this project will include an interactive CLI with Questionary,
 FastAPI backend handling API requests, and SQLite3 for data storage.
 
 ## Features
